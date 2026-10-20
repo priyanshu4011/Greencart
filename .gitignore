@@ -1,0 +1,6 @@
+.env
+*.pem
+kind.exe
+kubectl
+node_modules
+dist
